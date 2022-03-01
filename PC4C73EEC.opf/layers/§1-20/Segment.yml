@@ -1,0 +1,104 @@
+id: 7a530b4a173f4b1e8ac855422c8184a8
+annotation_type: Segment
+revision: '00001'
+annotations:
+  249dccf4e4e74c3b9bc93a65516efbd4:
+    span:
+      start: 0
+      end: 96
+    metadata: {}
+  56272d9d31e4493383ff040a404f6415:
+    span:
+      start: 99
+      end: 194
+    metadata: {}
+  1fdfa039941c401f8c7e7e38657c0a32:
+    span:
+      start: 197
+      end: 298
+    metadata: {}
+  a040cdf271cf4029b91bbbb4471f7513:
+    span:
+      start: 301
+      end: 403
+    metadata: {}
+  47c8875b4f3d45f5a61559b58b9ec362:
+    span:
+      start: 406
+      end: 502
+    metadata: {}
+  2e07a994fe254ab981e07cc7a4d37efa:
+    span:
+      start: 505
+      end: 595
+    metadata: {}
+  bcd44ab0e5614f57bced75b9b6a59a8b:
+    span:
+      start: 598
+      end: 691
+    metadata: {}
+  4ad9baf22377476e998870b3bc3b583a:
+    span:
+      start: 694
+      end: 780
+    metadata: {}
+  2da757418d064a33a277c94e60c8ec04:
+    span:
+      start: 783
+      end: 876
+    metadata: {}
+  7d72ceb0a94c431c9a19598cf020372d:
+    span:
+      start: 879
+      end: 978
+    metadata: {}
+  db0bc6c5586c47daa2a9b2d9642cd1cc:
+    span:
+      start: 981
+      end: 1073
+    metadata: {}
+  f04bbbfb63334349a7c0bf4a4e08205f:
+    span:
+      start: 1076
+      end: 1169
+    metadata: {}
+  0f535b7851644443b8e1726c72ad27b2:
+    span:
+      start: 1172
+      end: 1265
+    metadata: {}
+  8a6c8b2d91a24407a5856b66c2d17529:
+    span:
+      start: 1268
+      end: 1357
+    metadata: {}
+  e76b7c6622e24f2582cf8667757ba64e:
+    span:
+      start: 1360
+      end: 1456
+    metadata: {}
+  c1fa630d06274203ad158008ec77f346:
+    span:
+      start: 1459
+      end: 1554
+    metadata: {}
+  7894037e1bd7429797c20cf1379696c9:
+    span:
+      start: 1557
+      end: 1657
+    metadata: {}
+  b4d0f226cf084198b145de2060623a26:
+    span:
+      start: 1660
+      end: 1761
+    metadata: {}
+  3e5be09889514d2baab64632629cbac3:
+    span:
+      start: 1764
+      end: 1862
+    metadata: {}
+  2573b44879a8442abf2c0cc25a0e0585:
+    span:
+      start: 1865
+      end: 1959
+    metadata: {}
